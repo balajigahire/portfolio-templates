@@ -484,8 +484,15 @@ _______________________________*/
     font-size: 16px;
   }
   .section-project {
+    width: 100%;
     padding-left: 16px;
     padding-right: 16px;
+  }
+  .pro-div {
+    flex-direction: column;
+  }
+  .pro-img {
+    width: 100% !important;
   }
   .project-outer h3 {
     font-size: 1.7rem;
