@@ -531,4 +531,13 @@ _______________________________*/
   .stay-connected {
     font-size: 1rem;
   }
+  .nav-div,
+  .banner-div,
+  .service-box,
+  .about-me-outer,
+  .project-outer,
+  .skills-outer,
+  .footer-outer {
+    width: 100%;
+  }
 }
